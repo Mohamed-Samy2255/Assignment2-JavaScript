@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    font-weight: 900;
+    font-size: 5rem;
+    font-family: Impact;
+}
+
+p{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+button{
+    background-color: blue;
+    margin: auto;
+    padding-inline: 5rem;
+    padding-block: 2rem;
+    display: block;
+}
+
+button:hover{
+    background-color: green;
+}
